@@ -92,3 +92,5 @@ To retrain or view model development:
 | `📈 Scikit-learn`         | ML model & evaluation         |
 | `🖼 Matplotlib & Seaborn` | Data visualization            |
 | `💾 Joblib`               | Model serialization           |
+
+**#StreamLit URL** :- https://rio1002-salary-prediction-app-9zhuoi.streamlit.app/
